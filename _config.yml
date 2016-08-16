@@ -1,0 +1,14 @@
+name: 'SheCommerce Global '
+layout_spectrum: 0.30182807824443214
+typography_spectrum: 0.33903226274407605
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.48673595719192464
+  lightness: 0.4844829674021345
+  saturation: 0.10702109781532587
+  rhythmicContrast: 0.11747641403750475
